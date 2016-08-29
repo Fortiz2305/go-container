@@ -28,7 +28,7 @@ $ docker run --rm -v /your/path/to/go-container/hello:/go/src/hello -t -i go-dev
 $ docker run -it -v /your/path/to/go-container/hello/:/go/src/hello go-dev /bin/bash 
 ```
 
-## Using docker-compose
+## Run the image using docker-compose
 
 * It is also possible to run the image using docker-compose. Just go to the go-container directory and execute:
 
