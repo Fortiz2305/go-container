@@ -1,0 +1,8 @@
+version: '2'
+services:
+  hello:
+    build: .
+    ports:
+      - 8080:8080
+    volumes:
+      - /path/to/your/go-container/hello:/go/src/hello
