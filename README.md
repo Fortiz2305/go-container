@@ -11,7 +11,7 @@
 ## Pull the image
 
 ```
-docker pull fortiz2305/go-container
+$ docker pull fortiz2305/go-container
 ```
 
 ## Build the image
