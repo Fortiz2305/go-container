@@ -1,7 +1,7 @@
 version: '2'
 services:
   hello:
-    build: .
+    image: fortiz2305/go-container
     ports:
       - 8080:8080
     volumes:

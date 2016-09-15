@@ -1,12 +1,18 @@
 # go-container
 
-> Development container for Go
+> Development container for Go. It is also available in [DockerHub](https://hub.docker.com/r/fortiz2305/go-container/)
 
 # Prerequisites
 
 * Docker: https://docs.docker.com/engine/installation/
 
 # Quickstart
+
+## Pull the image
+
+```
+docker pull fortiz2305/go-container
+```
 
 ## Build the image
 
